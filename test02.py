@@ -4,5 +4,6 @@ def mulNum(a, b):
     return result
 
 num01 = 10
-num02 = 20
+num02 = 50
 print(mulNum(num01, num02))
+

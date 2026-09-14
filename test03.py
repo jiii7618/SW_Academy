@@ -4,3 +4,5 @@ def sayHello(name):
 
 inName = 'Tom'
 print(sayHello(inName))
+print("Program end!!")
+
