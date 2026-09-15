@@ -3,6 +3,7 @@ def sayHello(name):
     return 'Hello, ' + name+ '!'
 
 inName = 'Tom'
+lastName = 'Brown'
 print(sayHello(inName))
 print("Program end!!")
 #여기에 주석을 넣습니다. 
